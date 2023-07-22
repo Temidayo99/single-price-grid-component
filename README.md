@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Temidayo99/single-price-grid-component)
-- Live Site URL: [Add live site URL here](https://marvelous-sunburst-c85b5d.netlify.app/)
+- Solution URL: [https://github.com/Temidayo99/single-price-grid-component](https://github.com/Temidayo99/single-price-grid-component)
+- Live Site URL: [https://marvelous-sunburst-c85b5d.netlify.app/](https://marvelous-sunburst-c85b5d.netlify.app/)
 
 ## My process
 
