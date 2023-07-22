@@ -37,8 +37,8 @@ body{
     justify-content: center;
     flex-direction: column;
     border-radius: 5px 5px 0px 0px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
     text-align: left;
 }
 
@@ -49,8 +49,8 @@ body{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
     text-align: left;
 }
 
@@ -88,7 +88,7 @@ body{
     color: #fff;
 }
 .sub{
-    padding-top: 20px;
+    padding-top: 30px;
     padding-bottom: 20px;
     font-weight: 700;
     font-size: 18px;
@@ -112,7 +112,7 @@ body{
 }
 .sign-up{
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     background: var(--BrightYellow);
     color: #fff;
     border: none;
@@ -125,13 +125,13 @@ body{
     cursor: pointer;
 }
 .services-lead{
-    padding-top: 20px;
+    padding-top: 30px;
     padding-bottom: 20px;
     font-weight: 700;
 }
 .services-list{
     font-size: 13px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     line-height: 20px;
     color: rgba(255, 255, 255, 0.5);
 }
